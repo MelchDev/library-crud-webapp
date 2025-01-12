@@ -24,6 +24,8 @@ Installation instructions will be shown here soon.
 **David Mendoza**  
 - GitHub: [yourusername](https://github.com/yourusername)
 
+**Alejandra Castillo**
+
 ## License
 No explicit license has been applied to this project.  
 Please contact the author or SENA (Servicio Nacional de Aprendizaje) for permissions and inquiries regarding usage.
