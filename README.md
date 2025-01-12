@@ -22,7 +22,7 @@ Installation instructions will be shown here soon.
 
 ## Author
 **David Mendoza**  
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: [MelchDev](https://github.com/MelchDev)
 
 **Alejandra Castillo**
 
